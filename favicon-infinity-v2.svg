@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="infinity" x1="7" y1="21" x2="57" y2="45" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1767C7"/>
+      <stop offset="0.55" stop-color="#496FD1"/>
+      <stop offset="1" stop-color="#7657C8"/>
+    </linearGradient>
+  </defs>
+  <path d="M7 32c0-13 14-17 25 0s25 13 25 0-14-17-25 0S7 45 7 32Z" fill="none" stroke="url(#infinity)" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
